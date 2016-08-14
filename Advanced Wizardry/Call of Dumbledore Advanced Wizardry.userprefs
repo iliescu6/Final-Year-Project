@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="64" Column="29" />
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Animate_Hand.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Torch_Turn_OnOff.cs" Line="19" Column="1" />
+      <File FileName="Assets\Scripts\Raycast.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Rotate.cs" Line="1" Column="1" />
+      <File FileName="..\..\Survival\Assets\Scripts\LavaDamage.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spell_Info.cs" Line="1" Column="1" />
+      <File FileName="..\..\Shooting\PrefabShooting.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

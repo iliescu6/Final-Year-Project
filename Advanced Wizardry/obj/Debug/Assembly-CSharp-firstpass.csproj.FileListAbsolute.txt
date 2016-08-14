@@ -1,0 +1,48 @@
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\Mono.Cecil.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEditor.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEngine.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEngine.UI.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\Unity.DataContract.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\Unity.CecilTools.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEngine.xml
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEditor.xml
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEngine.UI.xml
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\obj\Debug\Assembly-CSharp-firstpass.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\obj\Debug\Assembly-CSharp-firstpass.pdb
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEngine.Advertisements.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEngine.Advertisements.xml
+G:\New folder (2)\New folder (2)\Call of Dumbledore Advanced Wizardry\Temp\bin\Debug\UnityEngine.Analytics.xml
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\Mono.Cecil.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\UnityEditor.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\UnityEngine.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\UnityEngine.UI.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\Unity.DataContract.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\Unity.CecilTools.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\UnityEngine.xml
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\UnityEditor.xml
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\UnityEngine.UI.xml
+G:\New folder (2)\New folder (2)\Advanced Wizardry\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\New folder (2)\New folder (2)\Advanced Wizardry\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+G:\New folder (2)\New folder (2)\Advanced Wizardry\obj\Debug\Assembly-CSharp-firstpass.dll
+G:\New folder (2)\New folder (2)\Advanced Wizardry\obj\Debug\Assembly-CSharp-firstpass.pdb
